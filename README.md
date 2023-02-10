@@ -11,6 +11,6 @@ Praveen           - Chief Developer <br>
 N. Karthik Akshaj - Development & Design<br>
 Manish            - Development & Content<br>
 Dev               - Content Quality & Web Design and Feedback<br>
-Nimesh Dutt       - Chief Designer & Content
+Nimesh Dutt       - Chief Designer & Content <br>
 
 
